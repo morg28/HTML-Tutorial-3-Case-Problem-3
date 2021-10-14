@@ -1,0 +1,35 @@
+/*
+    Shipping
+    Layout Style Sheet
+
+    Author: Morgan Galer
+*/
+
+/* Heading styles */
+
+h1 {
+     font: italic normal 150% "Cooper Black," serif;
+}
+
+h2, h3 {
+     color: white;
+     background-color: teal;
+}
+h4 {
+     font-variant: small-caps;
+     font-size: 1.2em;
+}
+strong em {
+   color: green;
+   font-weight: 900;
+   font-style: normal;
+}
+
+/* body */
+
+body {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 1.1em;
+     background-color: #c19b76
+}
+
